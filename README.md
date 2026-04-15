@@ -1,6 +1,6 @@
 # 👨‍💻 Wallace Michael
 
-**`Desenvolvedor FullStack`**
+**`Front-end Developer`**
 
 Me chamo Wallace Michael, tenho 23 anos e sou natural de Pernambuco. Concluí o ensino médio na [ETE Porto Digital](https://www.instagram.com/eteportodigital/), com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. Sou apaixonado por tecnologia e design, atuando no desenvolvimento de aplicações web, criação de interfaces no Figma (UI) e na melhoria da experiência do usuário (UX).
 

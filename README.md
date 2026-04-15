@@ -24,7 +24,7 @@ Também tenho experiência com design e comunicação digital, criando projetos 
             src="https://custom-icon-badges.demolab.com/github/followers/WallaceMichael?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"
         />
     </a>
-    <a href="https://instagram.com/SEU_USUARIO">
+    <a href="https://instagram.com/walleemelo">
         <img 
             alt="Instagram" 
             title="Me siga no Instagram" 

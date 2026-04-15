@@ -2,11 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou desenvolvedor FullStack apaixonado por tecnologia e criação de soluções digitais.  
-Atuo no desenvolvimento de sistemas web, APIs e interfaces mo
-dernas, trabalhando do front ao back-end.
-
-Também tenho experiência com design e comunicação digital, criando projetos completos — da identidade visual até a implementação.
+Me chamo Wallace Michael, tenho 23 anos e sou natural de Pernambuco. Concluí o ensino médio na [ETE Porto Digital](https://www.instagram.com/eteportodigital/), com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. Sou apaixonado por tecnologia e design, atuando no desenvolvimento de aplicações web, criação de interfaces no Figma (UI) e na melhoria da experiência do usuário (UX).
 
 ---
 <p align="left">

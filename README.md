@@ -117,7 +117,7 @@ Me chamo Wallace Michael, tenho 23 anos e sou natural de Pernambuco. Concluí o 
 
 <p>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=WallaceMichael&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceMichael&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceMichael&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
 ---

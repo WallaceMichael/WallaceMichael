@@ -4,7 +4,7 @@
 
 Me chamo Wallace Michael, tenho 23 anos e sou natural de Pernambuco. Concluí o ensino médio na [ETE Porto Digital](https://www.instagram.com/eteportodigital/), com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. Sou apaixonado por tecnologia e design, atuando no desenvolvimento de aplicações web, criação de interfaces no Figma (UI) e na melhoria da experiência do usuário (UX).
 
----
+
 <p align="left">
     <a href="https://github.com/WallaceMichael?tab=repositories&sort=stargazers">
         <img 
@@ -27,6 +27,11 @@ Me chamo Wallace Michael, tenho 23 anos e sou natural de Pernambuco. Concluí o 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
+    <img 
+        alt="Visualizações do perfil"
+        title="Total de visualizações"
+        src="https://komarev.com/ghpvc/?username=WallaceMichael&color=blue&style=for-the-badge"
+    />
 </p>
 
 ---
@@ -118,6 +123,14 @@ Me chamo Wallace Michael, tenho 23 anos e sou natural de Pernambuco. Concluí o 
 <p>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=WallaceMichael&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceMichael&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WallaceMichael/WallaceMichael/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

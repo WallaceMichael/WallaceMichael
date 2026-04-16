@@ -148,4 +148,4 @@ Me chamo Wallace Michael, tenho 23 anos e sou natural de Pernambuco. Concluí o 
 
 ---
 
-💜 Feito com dedicação por Wallace Michael
+💙 Feito com dedicação por Wallace Michael

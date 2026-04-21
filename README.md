@@ -6,14 +6,14 @@ Me chamo Wallace Michael, tenho 23 anos e sou natural de Pernambuco. Concluí o 
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/seu-linkedin">
+    <a href="https://www.linkedin.com/in/wallace-michael-dev/">
         <img 
             alt="LinkedIn" 
             title="Me conecte no LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="mailto:seuemail@gmail.com">
+    <a href="mailto:wallacemsm2@gmail.com">
         <img 
             alt="Gmail" 
             title="Me envie um email" 

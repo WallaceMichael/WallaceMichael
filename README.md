@@ -6,32 +6,27 @@ Me chamo Wallace Michael, tenho 23 anos e sou natural de Pernambuco. Concluí o 
 
 
 <p align="left">
-    <a href="https://github.com/WallaceMichael?tab=repositories&sort=stargazers">
+    <a href="https://www.linkedin.com/in/seu-linkedin">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/WallaceMichael?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="LinkedIn" 
+            title="Me conecte no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/WallaceMichael?tab=followers">
+    <a href="mailto:seuemail@gmail.com">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/WallaceMichael?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"
+            alt="Gmail" 
+            title="Me envie um email" 
+            src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
     <a href="https://instagram.com/walleemelo">
         <img 
             alt="Instagram" 
             title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <img 
-        alt="Visualizações do perfil"
-        title="Total de visualizações"
-        src="https://komarev.com/ghpvc/?username=WallaceMichael&color=blue&style=for-the-badge"
-    />
 </p>
 
 ---
